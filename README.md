@@ -1,7 +1,7 @@
-# Cenk
+# Cenk Koçak
 
 
-Hı, ı saw a dataset about powerligting on kaggle and ı wanna analyzed it.
+Hı, ı saw a dataset about powerlifting on kaggle and ı wanna analyzed it.
 It was a very big dataset.
 The dataset did not include the championship held in Estonia in December 2023. I added that championship myself.
 

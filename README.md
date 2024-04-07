@@ -19,5 +19,7 @@ https://www.youtube.com/@Cenkocak
 
 ![download](https://github.com/3G3M3N/Turkish_Powerlifters/assets/83331577/e68e52aa-6ee1-48e0-af24-a74fe2bc8e6d)
 ![download](https://github.com/3G3M3N/Turkish_Powerlifters/assets/83331577/3c50e52c-05b3-4032-b83b-fd62515d2074)
-![download](https://github.com/3G3M3N/Turkish_Powerlifters/assets/83331577/7055e0c2-b49b-4df6-a34e-614ca5761cbc)
+![download](https://github.com/3G3M3N/Turkish_Powerlifters/assets/83331577/9c1b613d-ab8b-492e-9f92-bdf04dceb178)
 
+
+**He have a big heart. Everyone can see it. Turkish peoples love him so much. Seni seviyoruz şampiyon, TURKISH TANK!

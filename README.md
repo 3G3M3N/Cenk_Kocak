@@ -1,7 +1,7 @@
 # Turkish_Powerlifters
 
 
-Hı, ı saw a dataset about powerligting on kaggle and ı wanna analyzed this.
+Hı, ı saw a dataset about powerligting on kaggle and ı wanna analyzed it.
 It was a very big dataset.
 So far, I have analyzed Turkish athletes competing in international IPF competitions.
 

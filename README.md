@@ -1,11 +1,16 @@
-# Turkish_Powerlifters
+# Cenk
 
 
 Hı, ı saw a dataset about powerligting on kaggle and ı wanna analyzed it.
 It was a very big dataset.
-So far, I have analyzed Turkish athletes competing in international IPF competitions.
+The dataset did not include the championship held in Estonia in December 2023. I added that championship myself.
 
-#This dataset includes just before the 2024 competitions.
+
+
+
+
+
+
 
 
 Who is Cenk Koçak: 
@@ -14,7 +19,7 @@ Who is Cenk Koçak:
 Cenk Koçak is'a Turkish powerlifting athlete. He lives in Ankara who is capital of Turkey. Actually he is a quiet guy in social media. He have a YouTube account and Instagram account but he is not so much online at there.
 He brokes JR world record in 2019(in 2022 its broken from another guy).
 Right not he have a European Deadlift Record with 400.5 kg.
-He have a injures but he's still trying something. He is a gladiator, he is a warrior.
+He have a injures but he's still trying compete.
 <br>
 https://www.instagram.com/cenk_kocak/
 <br>
@@ -26,4 +31,4 @@ https://www.youtube.com/@Cenkocak
 
 
 
-**He have a big heart. Everyone can see it. Turkish peoples loves him so much. Seni seviyoruz şampiyon, TURKISH TANK, KİNG KOÇAK!
+**He have a big heart. Everyone can see it. Turkish peoples loves him so much. Seni seviyoruz şampiyon, arkandayız TURKISH TANK, KİNG KOÇAK!

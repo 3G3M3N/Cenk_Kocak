@@ -1,4 +1,4 @@
-# Turkish_Powerlifter
+# Turkish_Powerlifters
 
 
 Hı, ı saw a dataset about powerligting on kaggle and ı wanna analyzed this.

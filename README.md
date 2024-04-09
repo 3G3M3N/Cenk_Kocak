@@ -24,7 +24,7 @@ Who is Cenk Koçak:
 Cenk Koçak is a Turkish powerlifting athlete. He lives in Ankara who is capital of Turkey. Actually he is a quiet guy in social media. He have a YouTube account and Instagram account but he is not so much online at there.
 He brokes JR world record in 2019(in 2022 its broken from another guy).
 Right now he have a European Deadlift Record with 400.5 kg.
-He have a injures but he's still trying compete.
+He have a injures but he's still trying to compete.
 <br>
 https://www.instagram.com/cenk_kocak/
 <br>
